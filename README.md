@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sodalite1204&show_icons=true&theme=nightowl)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freya-k-1204&show_icons=true&theme=nightowl)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sodalite1204&langs_count=10&layout=compact&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freya-k-1204&langs_count=10&layout=compact&theme=nightowl)
 <!--
 **freya-k-1204/freya-k-1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
